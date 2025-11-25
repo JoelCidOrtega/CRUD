@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Joel",
+        "gusto": "4",
+        "fecha": "2025-11-25",
+        "hora": "16:20",
+        "preferencia": "solo",
+        "compa": [
+            "sandro",
+            "jan"
+        ],
+        "neg": [
+            "elia"
+        ],
+        "motivo": "si",
+        "ayuda": "jan",
+        "color": "#ff0000",
+        "comentarios": "sda",
+        "lenguajes": [
+            "javascript",
+            "python"
+        ],
+        "stack": "frontend",
+        "roles": [
+            "programador"
+        ],
+        "disponibilidad": [
+            "tarde"
+        ],
+        "observaciones": "na",
+        "nivel": "intermedio",
+        "ide": "vscode",
+        "git": "si",
+        "comunicacion": "nada",
+        "fecha_guardado_servidor": "2025-11-25 15:21:15"
+    }
+]

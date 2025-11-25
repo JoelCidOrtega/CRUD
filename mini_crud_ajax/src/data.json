@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "joeladmin",
+        "contrasena": "$2y$12$7UFiJPoGWGzP209.7q\/TIeZ98Wx.IQbgyUf50DBPTpBRJ\/26wbBdq",
+        "email": "joeladmin@gmail.com",
+        "rol": "admin"
+    },
+    {
+        "nombre": "joelusuario",
+        "contrasena": "$2y$12$5P3lVc1EnIJQzhTwdPwSae9mmPQY.py5.q2IRlUdhJXXHrsOlspDC",
+        "email": "joelusuario@gmail.com",
+        "rol": "usuario"
+    }
+]
